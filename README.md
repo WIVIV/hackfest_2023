@@ -4,10 +4,10 @@
 
 
 ### Problem Statement
-Cashflow lending is predicated on analysts cranking out Diary Notes (DNs) and Credit Memos (CMs). We have automated the spreading, calculation of financial ratios, and modeling of PDs. However, the completion of DNs and CMs is still manual.
+Cashflow lending is predicated on analysts cranking out Diary Notes (DNs) and Credit Memos (CMs). We have automated the spreading, calculation of financial ratios, and modelling of PDs. However, the completion of DNs and CMs is still manual.
 
 ### Solution
-We propose using LLMs (Language Model-based Lending Machines) to query and analyze financial reports, enabling a more efficient credit analysis workflow. Our solution involves building a web app that augments the current workflow by producing draft DNs and CMs. Analysts can then refine these drafts prior to submission.
+We propose using LLMs (Language Model-based Lending Machines) to query and analyse financial reports, enabling a more efficient credit analysis workflow. Our solution involves building a web app that augments the current workflow by producing draft DNs and CMs. Analysts can then refine these drafts prior to submission.
 
 ### Time to Market
 We estimate a time frame of 6 months to develop and implement this solution. To ensure the best outcome, we recommend developing it in conjunction with Front Line teams to gather input from bankers.
