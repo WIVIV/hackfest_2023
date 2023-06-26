@@ -15,8 +15,8 @@ We estimate a time frame of 6 months to develop and implement this solution. To 
 ### Demo
 We have developed a rough Proof of Concept (PoC) using LangChain and Deep Lake. Initially, we utilized the ChatGPT API, but the final implementation will use a different LLM, which can be privately hosted within our own environment. We assure you that no proprietary data will be sent outside the bank's network.
 
-### [Video URL](https://github.com/WIVIV/hackfest_2023/blob/main/Assets/Video/AIBanker.mp4) 
-
+### Video
+Video file is in Assets folder. 
 
 ### Sub Theme
 Powering Banking with Generative AI
