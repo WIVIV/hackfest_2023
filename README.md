@@ -1,5 +1,8 @@
 # Team ID - Analyse This
 
+![image](https://github.com/WIVIV/hackfest_2023/blob/main/Assets/Images/README_IMAGE.jpg)
+
+
 ### Problem Statement
 Cashflow lending is predicated on analysts cranking out Diary Notes (DNs) and Credit Memos (CMs). We have automated the spreading, calculation of financial ratios, and modeling of PDs. However, the completion of DNs and CMs is still manual.
 
